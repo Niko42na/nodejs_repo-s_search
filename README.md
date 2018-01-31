@@ -1,5 +1,3 @@
-# "NodeJS notes"
-
 Little app for searching user's repositories on GitHub. 
 
 ## Getting Started
